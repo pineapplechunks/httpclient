@@ -21,10 +21,6 @@
             <scope>test</scope>
         </dependency>
         </dependencies>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.5.2</version>
-            <scope>compile</scope>
 
     <build>
         <plugins>
